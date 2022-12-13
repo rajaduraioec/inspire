@@ -1,0 +1,19 @@
+{
+    "name": "rajaduraioec/inspire",
+    "description": "Get Motivational Quotes",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rajaduraioec\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rajadurai",
+            "email": "rajaduraioec@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
